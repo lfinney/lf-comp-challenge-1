@@ -1,0 +1,34 @@
+* {
+margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  border: dashed 1px black;
+  width: 1000px;
+  height: 600px;
+}
+
+section.#block-of-blocks {
+  display: flex;
+  flex: wrap;
+  flex-shrink: 0;
+  width: 600px;
+  height: ;
+}
+
+section.#mr-burnham {
+  width: 400px;
+}
+
+#name-block {
+  width:400px;
+  height:200px;
+}
+
+.block {
+  width: 200px;
+  height: 200px;
+  border: dashed 1px black;
+}
