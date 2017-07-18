@@ -9,4 +9,4 @@ Original Comp:
 ![Original Comp](/Users/Luke/Coding/lf-comp-challenge-1/images/static-comp-comp.png)
 
 My Version:
-![Original Comp](/Users/Luke/Coding/lf-comp-challenge-1/images/bo-burnham-static.png)
+![Bo Static](/Users/Luke/Coding/lf-comp-challenge-1/images/bo-burnham-static.png)
