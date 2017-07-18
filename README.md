@@ -6,7 +6,9 @@
 
 
 Original Comp:
-![Original Comp](/Users/Luke/Coding/lf-comp-challenge-1/images/static-comp-comp.png)
+![Original Comp](<img width="947" alt="static-comp-comp" src="https://user-images.githubusercontent.com/22566946/28325329-c2779e42-6b9a-11e7-8409-c7f5d03d4dce.png">)
 
 My Version:
-![Bo Static](/Users/Luke/Coding/lf-comp-challenge-1/images/bo-burnham-static.png)
+![Bo Static](<img width="1278" alt="bo-burnham-static" src="https://user-images.githubusercontent.com/22566946/28325328-c27722d2-6b9a-11e7-9642-19ee7859fc55.png">)
+
+
